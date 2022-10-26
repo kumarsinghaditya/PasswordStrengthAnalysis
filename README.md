@@ -15,7 +15,7 @@ The models used are:
 
 The web application is live on http://exo.owaspvit.com/
 
-## Installation
+## Steps for Installation
 
 * Clone the project into your PC:
 ```
