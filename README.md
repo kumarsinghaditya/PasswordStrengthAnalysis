@@ -13,7 +13,7 @@ The models used are:
 * Multi Layer Perceptron Network
 
 
-The web application is live on http://exo.owaspvit.com/
+The web application is live on http://exo.owaspvit.com/ (now inactive)
 
 ## Steps for Installation
 
